@@ -7,7 +7,7 @@ ul.menu {
     border-width: 1px;
     padding: 10px;
     border-radius: 10px;
-    background-color: rgb(230, 23, 23)
+    background-color: rgb(5, 153, 146)
 }
 
 ul.menu li {
@@ -23,11 +23,11 @@ ul.menu li a {
 }
 
 ul.menu li.selected {
-    color: rgb(0, 255, 149)
+    color: rgb(229, 255, 0)
 }
 
 ul.menu li a:hover {
-    color: rgb(0, 168, 251);
+    color: black;
     text-decoration: underline;
 }
 
